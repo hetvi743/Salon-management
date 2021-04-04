@@ -21,7 +21,6 @@ else
 <th>SERVICE</th>
 <th>DATE</th>
 <th>TIME</th>
-<th>STAFF PREFERRED</th>
 <th>STATUS</th>
 <th>DELETE</th>
 <th></th></tr>
